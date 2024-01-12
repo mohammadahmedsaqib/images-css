@@ -1,0 +1,93 @@
+/* SIZE OF IMAGES */
+/* img{
+    width: 250px;
+    height: 250px;
+} */
+
+/* ALIGNING IMAGES */
+/* img{
+    margin-left: 200px;
+} */
+
+/* img{
+    float: right;
+} */
+
+/* CENTERING IMAGES */
+/* img{
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin: auto;
+} */
+
+/* BACKGROUNG IMAGE */
+/* body{
+    background-image: url(./images/ahmed.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+} */
+
+/* BACKGROUND REPEAT */
+/* body{
+    background-image: url(./images/2020_kawasaki_z_h2_superbike_4k-other.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed; 
+    font-size: xx-large;  
+}
+
+p{
+    color: white;
+} */
+
+/* body{
+    background-image: url(./images/choti-bike.jpg);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: right bottom;
+} */
+
+/* BACKGROUNG SHORTHAND */
+/* BODY{
+    background: #efefef url(./images/choti-bike.jpg) no-repeat top right;
+} */
+
+/* GRADIENTS */
+
+/* LINEAR GRADIENTS */
+/* BODY{
+    background-image: linear-gradient(red,yellow);
+    background-repeat: no-repeat;
+    height: 100vh;
+} */
+
+/* body{
+    background-image: linear-gradient(to right ,red,yellow,green,blue,purple,white,grey);
+    color: red;
+    height: 200px;
+    border: 1px solid red;
+    background-repeat: no-repeat;
+} */
+
+/* RADIAL GRADIENT */
+/* body{
+    background-image: radial-gradient(pink,purple,blue);
+    color: red;
+    height: 200px;
+    border: 1px solid red;
+    background-repeat: no-repeat;
+} */
+
+/* CONIC GRADIENT */
+/* #gradient-container{
+    background-image: conic-gradient(red,yellow,green,blue,black);
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    border-radius: 50%;
+} */
+
